@@ -2,6 +2,17 @@
                 'https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@200;500;700;800&family=Martian+Mono:wght@200;700&display=swap'
                 );
 
+
+
+           footer a {
+            color: white;
+           }
+
+           footer {
+            padding-top: 2vmax;
+            text-align: center;
+           }
+
             /* borrowed from https://css-tricks.com/snippets/css/typewriter-effect/ */
             .typewriter {
                 overflow: hidden; /* Ensures the content is not revealed until the animation */
