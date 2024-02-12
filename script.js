@@ -1,5 +1,5 @@
 function orig(){
-        document.mapBG.src="assets/scramjets_grouppic_bw.png"
+        document.mapBG.src="assets/IMG_4588.jpg"
     }
 function who(x){
     switch(x)
